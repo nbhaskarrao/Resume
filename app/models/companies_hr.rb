@@ -1,0 +1,2 @@
+class CompaniesHr < ApplicationRecord
+end
